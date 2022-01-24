@@ -1,2 +1,8 @@
+# Visual Studio Code configurations
+.vscode
+
+# build
+dist
+
 # dependencies
 node_modules
