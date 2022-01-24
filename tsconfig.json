@@ -3,6 +3,8 @@
     "target": "ES6",
     "module": "ESNext",
     "outDir": "dist",
+    "jsx": "react",
+    "noImplicitAny": true,
     "declaration": true,
     "emitDeclarationOnly": true,
     "strict": true,
